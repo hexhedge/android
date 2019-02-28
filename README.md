@@ -1,2 +1,3 @@
 # android
-just another repository!
+just a repository!
+need study!
